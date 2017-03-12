@@ -1,0 +1,4 @@
+1. Find shaketextfield.swift from this project.
+2. For any of your textfield assign this class.
+3. Wherever you want to create shake effect(may be when entered value in UItextfield is wrong or inappropriate)
+just call yourtextfieldname.shake(). You will get the desired shaking effect.
